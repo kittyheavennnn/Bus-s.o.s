@@ -14,5 +14,9 @@ body{
     font-size: 33px;
 }
 #horário{
-    color: #53C9D0;
+    color: #000;
+}
+
+.info{
+ color: #53C9D0;
 }
