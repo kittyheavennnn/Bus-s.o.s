@@ -21,6 +21,6 @@ body{
  color: #53C9D0;
 }
 
-.info::after{
+.info:hover{
     color: red;
 }
