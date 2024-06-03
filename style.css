@@ -17,6 +17,8 @@ body{
     color: #000;
     display: flex;
     flex-direction: column;
+    align-items: center;
+    align-content: space-around;
 }
 
 .info{
