@@ -15,6 +15,7 @@ body{
 }
 #horário{
     color: #000;
+    display: flex;
 }
 
 .info{
