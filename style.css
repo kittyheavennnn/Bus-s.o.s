@@ -42,3 +42,9 @@ body{
     align-items: center;
     align-content: space-around;
 }
+.local{
+    color: #53C9D0;
+}
+.local.hover{
+    color: red;
+}
