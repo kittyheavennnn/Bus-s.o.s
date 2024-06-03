@@ -20,3 +20,7 @@ body{
 .info{
  color: #53C9D0;
 }
+
+.info:hover{
+    color: red;
+}
