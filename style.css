@@ -19,6 +19,7 @@ body{
     flex-direction: column;
     align-items: center;
     align-content: space-around;
+    background-color: #E5F9E5;
 }
 
 .info{
