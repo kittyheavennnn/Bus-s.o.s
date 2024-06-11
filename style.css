@@ -34,6 +34,7 @@ body{
 }
 .onibu{ 
     background-color: #E5F9E5;
+    text-align: center;
 }
 #place{
     background-color: #E5F9E5;
@@ -47,4 +48,13 @@ body{
 }
 .local:hover{
     color: red;
+}
+.tabela{
+    width: 50%;
+}
+.mapa{
+    width: 50%;
+}
+section{
+    padding: 20px;
 }
