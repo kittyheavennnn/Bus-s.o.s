@@ -59,7 +59,10 @@ section{
     padding: 20px;
 }
 
-
+.tit{
+    padding: 20px;
+    background-color: white;
+}
 
 @media screen and (min-width: 1024px) {
     .onibu{ 
