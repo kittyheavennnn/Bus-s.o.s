@@ -66,6 +66,9 @@ section{
     width: 100%;
     text-align: center;
 }
+footer{
+    text-align: centerf;
+}
 
 @media screen and (min-width: 1024px) {
     .onibu{ 
